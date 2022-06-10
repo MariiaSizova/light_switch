@@ -1,0 +1,23 @@
+{
+  "name": "light_switch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariiaSizova/light_switch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariiaSizova/light_switch/issues"
+  },
+  "homepage": "https://github.com/MariiaSizova/light_switch#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

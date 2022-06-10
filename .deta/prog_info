@@ -1,0 +1,1 @@
+{"id":"d8564da8-2eac-444d-9206-68f66d8647ad","space":17289,"runtime":"nodejs14.x","name":"light_switch","path":"3lwuwa","project":"a0bnbgk3","account":"144798365827","region":"eu-central-1","deps":["express@^4.18.1"],"envs":null,"public":true,"log_level":"off","cron":""}
